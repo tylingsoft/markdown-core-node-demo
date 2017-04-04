@@ -4,6 +4,10 @@
 
     yarn install
 
+## Build
+
+    yarn build
+
 ## Run
 
-    node -r babel-register -r ignore-styles index.js
+    node index.bundle.js
