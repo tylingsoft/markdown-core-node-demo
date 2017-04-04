@@ -2123,9 +2123,9 @@ lru-cache@^4.0.0:
     pseudomap "^1.0.1"
     yallist "^2.0.0"
 
-markdown-core@^0.9.12:
-  version "0.9.12"
-  resolved "https://registry.yarnpkg.com/markdown-core/-/markdown-core-0.9.12.tgz#aed2568bb7fcd889fecce56f3eab4b6a2101f362"
+markdown-core@^0.9.13:
+  version "0.9.13"
+  resolved "https://registry.yarnpkg.com/markdown-core/-/markdown-core-0.9.13.tgz#03ebc6ee6c3a56884add4f8ee32b40dd94756157"
   dependencies:
     github-css "^0.1.0"
     markdown-it "^8.3.1"
