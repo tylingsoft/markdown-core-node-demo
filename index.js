@@ -1,4 +1,4 @@
-const mdc = require('markdown-core/dist/index.bundle.js').default
+import mdc from 'markdown-core'
 
 const html = mdc.render('# hello world')
 
