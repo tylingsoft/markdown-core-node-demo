@@ -6,7 +6,7 @@
     "upgrade": "ncu -ua && yarn upgrade"
   },
   "dependencies": {
-    "markdown-core": "^0.9.15"
+    "markdown-core": "^0.9.24"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",
